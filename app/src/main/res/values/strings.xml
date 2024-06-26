@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EyaDefence</string>
+    <string name="start_game">Start Game</string>
+    <string name="try_again">Try Again</string>
+    <string name="game_over">Game Over</string>
+    <string name="_0">0</string>
+
+    <string name="intro">Your wife is sleeping soundly. As a good husband you have to protect her from Evil Mosquitoes.
+        Otherwise your wife will become Evil and… \nyou know the rest. GLHF! \n\n
+        ඔබේ බිරිඳ හොඳටම නිදි. හොඳ ස්වාමිපුරුෂයෙකු ලෙස ඔබ ඇයව නපුරු මදුරුවන්ගෙන් ආරක්ෂා කළ යුතුයි. එසේ නොමැතිනම් ඔබේ බිරිඳ යක්ෂාරූඪ වී…
+        \nඉතිරි ටික ඔබ දන්නවා නේ… \nඑහෙනම්, ගුඩ් ලක් හෑව් ෆන්!
+    </string>
+    <string name="you_won">You Won!</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
